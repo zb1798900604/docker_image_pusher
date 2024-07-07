@@ -6,8 +6,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:8
 #redis:5.0
-docker.elastic.co/elasticsearch/elasticsearch:7.6.1
-docker.elastic.co/kibana/kibana:7.6.1
-nacos/nacos-server:v2.1.0
-apache/rocketmq:4.8.0
-mongo:4.4
+#docker.elastic.co/elasticsearch/elasticsearch:7.6.1
+#docker.elastic.co/kibana/kibana:7.6.1
+#nacos/nacos-server:v2.1.0
+#apache/rocketmq:4.8.0
+#mongo:4.4
+portainer/portainer-ce:latest
