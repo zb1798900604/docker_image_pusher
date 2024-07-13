@@ -12,4 +12,4 @@
 #apache/rocketmq:4.8.0
 #mongo:4.4
 #portainer/portainer-ce:latest
-nacos-server:v2.2.9
+nacos/nacos-server:v2.2.9
