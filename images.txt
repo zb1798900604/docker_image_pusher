@@ -13,4 +13,4 @@
 #mongo:4.4
 #portainer/portainer-ce:latest
 #nacos/nacos-server:v2.2.9
-rocketmq-dashboard:latest
+apacherocketmq/rocketmq-dashboard:latest
