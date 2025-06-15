@@ -14,4 +14,5 @@
 #portainer/portainer-ce:latest
 #nacos/nacos-server:v2.2.9
 #apacherocketmq/rocketmq-dashboard:latest
-apache/dubbo-admin
+#apache/dubbo-admin
+apache/rocketmq:5.3.2
